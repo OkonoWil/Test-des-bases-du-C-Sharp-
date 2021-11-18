@@ -1,0 +1,16 @@
+C:\Users\Mr Wil\Desktop\LaboTP\Test-des-bases-du-C-Sharp-\Console\Conversion Celsius - Fahrenheit\bin\Debug\net5.0\Conversion Celsius - Fahrenheit.exe
+C:\Users\Mr Wil\Desktop\LaboTP\Test-des-bases-du-C-Sharp-\Console\Conversion Celsius - Fahrenheit\bin\Debug\net5.0\Conversion Celsius - Fahrenheit.deps.json
+C:\Users\Mr Wil\Desktop\LaboTP\Test-des-bases-du-C-Sharp-\Console\Conversion Celsius - Fahrenheit\bin\Debug\net5.0\Conversion Celsius - Fahrenheit.runtimeconfig.json
+C:\Users\Mr Wil\Desktop\LaboTP\Test-des-bases-du-C-Sharp-\Console\Conversion Celsius - Fahrenheit\bin\Debug\net5.0\Conversion Celsius - Fahrenheit.runtimeconfig.dev.json
+C:\Users\Mr Wil\Desktop\LaboTP\Test-des-bases-du-C-Sharp-\Console\Conversion Celsius - Fahrenheit\bin\Debug\net5.0\Conversion Celsius - Fahrenheit.dll
+C:\Users\Mr Wil\Desktop\LaboTP\Test-des-bases-du-C-Sharp-\Console\Conversion Celsius - Fahrenheit\bin\Debug\net5.0\ref\Conversion Celsius - Fahrenheit.dll
+C:\Users\Mr Wil\Desktop\LaboTP\Test-des-bases-du-C-Sharp-\Console\Conversion Celsius - Fahrenheit\bin\Debug\net5.0\Conversion Celsius - Fahrenheit.pdb
+C:\Users\Mr Wil\Desktop\LaboTP\Test-des-bases-du-C-Sharp-\Console\Conversion Celsius - Fahrenheit\obj\Debug\net5.0\Conversion Celsius - Fahrenheit.csproj.AssemblyReference.cache
+C:\Users\Mr Wil\Desktop\LaboTP\Test-des-bases-du-C-Sharp-\Console\Conversion Celsius - Fahrenheit\obj\Debug\net5.0\Conversion Celsius - Fahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mr Wil\Desktop\LaboTP\Test-des-bases-du-C-Sharp-\Console\Conversion Celsius - Fahrenheit\obj\Debug\net5.0\Conversion Celsius - Fahrenheit.AssemblyInfoInputs.cache
+C:\Users\Mr Wil\Desktop\LaboTP\Test-des-bases-du-C-Sharp-\Console\Conversion Celsius - Fahrenheit\obj\Debug\net5.0\Conversion Celsius - Fahrenheit.AssemblyInfo.cs
+C:\Users\Mr Wil\Desktop\LaboTP\Test-des-bases-du-C-Sharp-\Console\Conversion Celsius - Fahrenheit\obj\Debug\net5.0\Conversion Celsius - Fahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\Mr Wil\Desktop\LaboTP\Test-des-bases-du-C-Sharp-\Console\Conversion Celsius - Fahrenheit\obj\Debug\net5.0\Conversion Celsius - Fahrenheit.dll
+C:\Users\Mr Wil\Desktop\LaboTP\Test-des-bases-du-C-Sharp-\Console\Conversion Celsius - Fahrenheit\obj\Debug\net5.0\ref\Conversion Celsius - Fahrenheit.dll
+C:\Users\Mr Wil\Desktop\LaboTP\Test-des-bases-du-C-Sharp-\Console\Conversion Celsius - Fahrenheit\obj\Debug\net5.0\Conversion Celsius - Fahrenheit.pdb
+C:\Users\Mr Wil\Desktop\LaboTP\Test-des-bases-du-C-Sharp-\Console\Conversion Celsius - Fahrenheit\obj\Debug\net5.0\Conversion Celsius - Fahrenheit.genruntimeconfig.cache
