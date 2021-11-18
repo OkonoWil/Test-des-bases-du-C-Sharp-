@@ -9,7 +9,7 @@
 //------------------------------------------------------------------------------
 
 
-namespace TP1_message_de_salutation.Properties
+namespace Tp2_Somme.Properties
 {
     /// <summary>
     ///   Une classe de ressource fortement typée destinée, entre autres, à la consultation des chaînes localisées.
@@ -43,7 +43,7 @@ namespace TP1_message_de_salutation.Properties
             {
                 if ((resourceMan == null))
                 {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("TP1_message_de_salutation.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Tp2_Somme.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;

@@ -9,7 +9,7 @@
 //------------------------------------------------------------------------------
 
 
-namespace TP1_message_de_salutation.Properties
+namespace Tp2_Somme.Properties
 {
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "11.0.0.0")]

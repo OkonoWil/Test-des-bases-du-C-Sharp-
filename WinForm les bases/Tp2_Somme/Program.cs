@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace TP1_message_de_salutation
+namespace Tp2_Somme
 {
     static class Program
     {

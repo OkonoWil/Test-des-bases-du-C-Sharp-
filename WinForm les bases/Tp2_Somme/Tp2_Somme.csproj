@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C74CD261-467A-4B9A-B44D-2B9ADC5C40A6}</ProjectGuid>
+    <ProjectGuid>{007A7C84-BC45-469E-8B9B-ADE85E16883E}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>TP1_message_de_salutation</RootNamespace>
-    <AssemblyName>TP1 message de salutation</AssemblyName>
+    <RootNamespace>Tp2_Somme</RootNamespace>
+    <AssemblyName>Tp2_Somme</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
