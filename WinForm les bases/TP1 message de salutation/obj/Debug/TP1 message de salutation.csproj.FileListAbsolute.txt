@@ -1,0 +1,5 @@
+C:\Users\Mr Wil\Desktop\LaboTP\Test-des-bases-du-C-Sharp-\WinForm les bases\TP1 message de salutation\obj\Debug\TP1 message de salutation.csproj.AssemblyReference.cache
+C:\Users\Mr Wil\Desktop\LaboTP\Test-des-bases-du-C-Sharp-\WinForm les bases\TP1 message de salutation\obj\Debug\TP1_message_de_salutation.Form1.resources
+C:\Users\Mr Wil\Desktop\LaboTP\Test-des-bases-du-C-Sharp-\WinForm les bases\TP1 message de salutation\obj\Debug\TP1_message_de_salutation.Properties.Resources.resources
+C:\Users\Mr Wil\Desktop\LaboTP\Test-des-bases-du-C-Sharp-\WinForm les bases\TP1 message de salutation\obj\Debug\TP1 message de salutation.csproj.GenerateResource.cache
+C:\Users\Mr Wil\Desktop\LaboTP\Test-des-bases-du-C-Sharp-\WinForm les bases\TP1 message de salutation\obj\Debug\TP1 message de salutation.csproj.CoreCompileInputs.cache
