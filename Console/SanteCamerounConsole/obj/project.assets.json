@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mr Wil\\Desktop\\C-Sharp\\Test-des-bases-du-C-Sharp-\\Console\\SanteCamerounConsole\\SanteCamerounConsole.csproj",
+      "projectUniqueName": "C:\\Users\\Mr Wil\\Desktop\\LaboTP\\Test-des-bases-du-C-Sharp-\\Console\\SanteCamerounConsole\\SanteCamerounConsole.csproj",
       "projectName": "SanteCamerounConsole",
-      "projectPath": "C:\\Users\\Mr Wil\\Desktop\\C-Sharp\\Test-des-bases-du-C-Sharp-\\Console\\SanteCamerounConsole\\SanteCamerounConsole.csproj",
+      "projectPath": "C:\\Users\\Mr Wil\\Desktop\\LaboTP\\Test-des-bases-du-C-Sharp-\\Console\\SanteCamerounConsole\\SanteCamerounConsole.csproj",
       "packagesPath": "C:\\Users\\Mr Wil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mr Wil\\Desktop\\C-Sharp\\Test-des-bases-du-C-Sharp-\\Console\\SanteCamerounConsole\\obj\\",
+      "outputPath": "C:\\Users\\Mr Wil\\Desktop\\LaboTP\\Test-des-bases-du-C-Sharp-\\Console\\SanteCamerounConsole\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
