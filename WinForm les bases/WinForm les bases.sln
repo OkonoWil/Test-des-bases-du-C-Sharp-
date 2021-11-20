@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tp1_MessageSalutation", "Tp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tp2_Somme", "Tp2_Somme\Tp2_Somme.csproj", "{007A7C84-BC45-469E-8B9B-ADE85E16883E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tp_Parite", "Tp_Parite\Tp_Parite.csproj", "{AF90442F-6613-4851-97E3-B2CDDAE1F8EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{007A7C84-BC45-469E-8B9B-ADE85E16883E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{007A7C84-BC45-469E-8B9B-ADE85E16883E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{007A7C84-BC45-469E-8B9B-ADE85E16883E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF90442F-6613-4851-97E3-B2CDDAE1F8EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF90442F-6613-4851-97E3-B2CDDAE1F8EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF90442F-6613-4851-97E3-B2CDDAE1F8EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF90442F-6613-4851-97E3-B2CDDAE1F8EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
