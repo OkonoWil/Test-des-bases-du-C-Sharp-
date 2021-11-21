@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tp_Parite", "Tp_Parite\Tp_P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operation", "Operation\Operation.csproj", "{FF571131-4017-462A-BEE4-057228F30DA9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "reduction", "reduction\reduction.csproj", "{3C875205-9E0F-467F-9C48-DE3F2D997870}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{FF571131-4017-462A-BEE4-057228F30DA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF571131-4017-462A-BEE4-057228F30DA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF571131-4017-462A-BEE4-057228F30DA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C875205-9E0F-467F-9C48-DE3F2D997870}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C875205-9E0F-467F-9C48-DE3F2D997870}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C875205-9E0F-467F-9C48-DE3F2D997870}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C875205-9E0F-467F-9C48-DE3F2D997870}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
