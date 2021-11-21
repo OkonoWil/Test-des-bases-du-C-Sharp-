@@ -41,7 +41,7 @@ namespace Operation
             }
             else
             {
-                tex_err.Text = "Vérifier les nombres saisi";
+                tex_err.Text = "Erreur : vérifiez les nombres saisi";
                 txt_max.Text = "";
                 txt_min.Text = "";
                 txt_moyenne.Text = "";
