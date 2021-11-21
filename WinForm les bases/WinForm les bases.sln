@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operation", "Operation\Oper
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "reduction", "reduction\reduction.csproj", "{3C875205-9E0F-467F-9C48-DE3F2D997870}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculatrice", "Calculatrice\Calculatrice.csproj", "{1A009380-8BFD-495F-9227-819F583ADF4B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{3C875205-9E0F-467F-9C48-DE3F2D997870}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C875205-9E0F-467F-9C48-DE3F2D997870}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C875205-9E0F-467F-9C48-DE3F2D997870}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A009380-8BFD-495F-9227-819F583ADF4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A009380-8BFD-495F-9227-819F583ADF4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A009380-8BFD-495F-9227-819F583ADF4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A009380-8BFD-495F-9227-819F583ADF4B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
