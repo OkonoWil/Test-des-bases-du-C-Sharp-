@@ -1,0 +1,16 @@
+C:\Users\Mr Wil\Desktop\LaboTP\Test-des-bases-du-C-Sharp-\Console\Robot\bin\Debug\net5.0\Robot.exe
+C:\Users\Mr Wil\Desktop\LaboTP\Test-des-bases-du-C-Sharp-\Console\Robot\bin\Debug\net5.0\Robot.deps.json
+C:\Users\Mr Wil\Desktop\LaboTP\Test-des-bases-du-C-Sharp-\Console\Robot\bin\Debug\net5.0\Robot.runtimeconfig.json
+C:\Users\Mr Wil\Desktop\LaboTP\Test-des-bases-du-C-Sharp-\Console\Robot\bin\Debug\net5.0\Robot.runtimeconfig.dev.json
+C:\Users\Mr Wil\Desktop\LaboTP\Test-des-bases-du-C-Sharp-\Console\Robot\bin\Debug\net5.0\Robot.dll
+C:\Users\Mr Wil\Desktop\LaboTP\Test-des-bases-du-C-Sharp-\Console\Robot\bin\Debug\net5.0\ref\Robot.dll
+C:\Users\Mr Wil\Desktop\LaboTP\Test-des-bases-du-C-Sharp-\Console\Robot\bin\Debug\net5.0\Robot.pdb
+C:\Users\Mr Wil\Desktop\LaboTP\Test-des-bases-du-C-Sharp-\Console\Robot\obj\Debug\net5.0\Robot.csproj.AssemblyReference.cache
+C:\Users\Mr Wil\Desktop\LaboTP\Test-des-bases-du-C-Sharp-\Console\Robot\obj\Debug\net5.0\Robot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mr Wil\Desktop\LaboTP\Test-des-bases-du-C-Sharp-\Console\Robot\obj\Debug\net5.0\Robot.AssemblyInfoInputs.cache
+C:\Users\Mr Wil\Desktop\LaboTP\Test-des-bases-du-C-Sharp-\Console\Robot\obj\Debug\net5.0\Robot.AssemblyInfo.cs
+C:\Users\Mr Wil\Desktop\LaboTP\Test-des-bases-du-C-Sharp-\Console\Robot\obj\Debug\net5.0\Robot.csproj.CoreCompileInputs.cache
+C:\Users\Mr Wil\Desktop\LaboTP\Test-des-bases-du-C-Sharp-\Console\Robot\obj\Debug\net5.0\Robot.dll
+C:\Users\Mr Wil\Desktop\LaboTP\Test-des-bases-du-C-Sharp-\Console\Robot\obj\Debug\net5.0\ref\Robot.dll
+C:\Users\Mr Wil\Desktop\LaboTP\Test-des-bases-du-C-Sharp-\Console\Robot\obj\Debug\net5.0\Robot.pdb
+C:\Users\Mr Wil\Desktop\LaboTP\Test-des-bases-du-C-Sharp-\Console\Robot\obj\Debug\net5.0\Robot.genruntimeconfig.cache
